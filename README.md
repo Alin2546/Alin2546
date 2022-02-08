@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alin2546
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript 
-email: eternalsq1337@gmail.com
+- email: eternalsq1337@gmail.com
 
 
 <!---

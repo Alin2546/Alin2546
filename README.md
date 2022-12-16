@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alin2546
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Java
 - email: eternalsq1337@gmail.com
 
 
